@@ -10,6 +10,7 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
+            int i = 10;
         }
     }
 }
